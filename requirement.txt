@@ -1,2 +1,2 @@
-Tkinter
+tkinter==8.6
 
